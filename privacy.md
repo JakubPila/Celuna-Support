@@ -49,7 +49,7 @@ Material changes will be posted here with an updated date. If a future version t
 
 ## Contact
 
-celunaapp@gmail.com]
+[celunaapp@gmail.com]
 
 ---
 
