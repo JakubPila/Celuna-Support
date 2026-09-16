@@ -74,7 +74,7 @@ You may stop using Celuna and delete it at any time. We may suspend or end acces
 
 ## 14. Governing law
 
-These Terms are governed by the laws of **[your country/state of residence]**, without regard to its conflict-of-law rules, and subject to any mandatory consumer-protection rights you have where you live.
+These Terms are governed by the laws of **the Unitted States**, without regard to its conflict-of-law rules, and subject to any mandatory consumer-protection rights you have where you live.
 
 ## 15. Contact
 
