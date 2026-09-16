@@ -82,4 +82,4 @@ Questions about these Terms: **celunaapp@gmail.com**
 
 ---
 
-_Terms of Use · © 2026 Celuna_
+_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Celuna_
