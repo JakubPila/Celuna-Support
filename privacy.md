@@ -121,4 +121,4 @@ Material changes will be posted here with an updated date. Any genuinely new sha
 
 **celunaapp@gmail.com**
 
-_Privacy Policy · © 2026 Celuna_
+_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Celuna_
