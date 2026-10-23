@@ -4,7 +4,7 @@ permalink: /terms.html
 
 # Celuna — Terms of Use
 
-_Last updated: September 2026_
+_Last updated: October 2026_
 
 Please read these Terms of Use (**"Terms"**) before using Celuna. By downloading or using the app, you agree to them. Celuna is provided by Jakub Pilasiewicz (**"we," "us"**). If you do not agree, please do not use the app.
 
@@ -22,7 +22,7 @@ Celuna helps families organise and share the care of someone with dementia or co
 
 ## 3. Your account
 
-Using the app alone needs no account. Sharing a circle requires signing in with Sign in with Apple. You are responsible for keeping access to your Apple ID secure, and for activity that happens under your account. You can delete your account at any time from within the app.
+Using the app alone needs no account. Subscribing to Caregiver+ or sharing a circle requires signing in with Sign in with Apple. You are responsible for keeping access to your Apple ID secure, and for activity that happens under your account. You can delete your account at any time from within the app.
 
 ## 4. The care circle and your content
 
@@ -30,11 +30,11 @@ You keep ownership of everything you put into Celuna (**"your content"**). By ad
 
 You are responsible for your content, and for having a proper basis to record and share information about the person you care for — for example, being their carer, next of kin, or holding the appropriate authority. Only invite people you trust, and only share what you have the right to share. Do not upload anything unlawful, or anything you do not have permission to share.
 
-Each circle has an admin who can invite people, set their role (co-caregiver or read-only observer), and remove them. Information shared into a circle may remain on other members' devices even after you delete it from yours.
+Each circle has an admin who can invite people, set their role (co-caregiver or read-only observer), and remove them. Information shared into a circle may remain on other members' devices even after you delete it from yours. An account can be in one family’s circle at a time.
 
 ## 5. Caregiver+ subscription
 
-Celuna is free to use. Caregiver+ is an optional subscription that unlocks the shared circle, the activities and games, and unlimited doctor summaries. One subscription covers everyone in your circle.
+Celuna is free to use. Caregiver+ is an optional subscription that unlocks the shared circle and the alerts between its members’ phones, a copy of your records kept safely on our servers, the activities and games, and unlimited doctor summaries. One subscription covers everyone in your circle.
 
 Payment is charged to your Apple ID at confirmation of purchase. Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period, and your account is charged for renewal within the 24 hours before it ends. A free trial, where offered, converts to a paid subscription unless cancelled at least 24 hours before it ends. You manage or cancel a subscription in your Apple ID settings (Settings → your name → Subscriptions). Any unused part of a free trial is forfeited when you buy a subscription.
 
@@ -54,7 +54,7 @@ Celuna, its design, and its content (other than your content) belong to us. We g
 
 ## 9. The app is provided "as is"
 
-We work hard to make Celuna reliable, but it is provided **"as is"** and **"as available,"** without warranties of any kind, to the fullest extent the law allows. We do not guarantee that it will be uninterrupted, error-free, or that data will always sync or be preserved. Because the app is local-first, keeping your own backups (from Settings) is your responsibility, and we are not responsible for data lost from a lost, damaged, reset or replaced device.
+We work hard to make Celuna reliable, but it is provided **“as is”** and **“as available,”** without warranties of any kind, to the fullest extent the law allows. We do not guarantee that it will be uninterrupted or error-free, that reminders and alerts will always arrive or arrive on time, or that data will always sync or be preserved. Reminders and alerts are a help, not a safeguard: check the app itself before giving a dose. Keeping your own backups (from Account & backup) is your responsibility, and we are not responsible for data lost from a lost, damaged, reset or replaced device.
 
 ## 10. Limitation of liability
 
@@ -82,4 +82,4 @@ Questions about these Terms: **celunaapp@gmail.com**
 
 ---
 
-_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Celuna_
+_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Jakub Pilasiewicz_
