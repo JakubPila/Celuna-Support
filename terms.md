@@ -4,7 +4,7 @@ permalink: /terms.html
 
 # Celuna — Terms of Use
 
-_Last updated: October 2026_
+_Last updated: November 2026_
 
 Please read these Terms of Use (**"Terms"**) before using Celuna. By downloading or using the app, you agree to them. Celuna is provided by Jakub Pilasiewicz (**"we," "us"**). If you do not agree, please do not use the app.
 
@@ -30,7 +30,7 @@ You keep ownership of everything you put into Celuna (**"your content"**). By ad
 
 You are responsible for your content, and for having a proper basis to record and share information about the person you care for — for example, being their carer, next of kin, or holding the appropriate authority. Only invite people you trust, and only share what you have the right to share. Do not upload anything unlawful, or anything you do not have permission to share.
 
-Each circle has an admin who can invite people, set their role (co-caregiver or read-only observer), and remove them. Information shared into a circle may remain on other members' devices even after you delete it from yours. An account can be in one family’s circle at a time.
+Each circle has an admin who can invite people, set their role (a co-caregiver, or an observer who can see the circle and send thanks and reactions but not change its records), and remove them. Information shared into a circle may remain on other members' devices even after you delete it from yours. An account can be in one family’s circle at a time.
 
 ## 5. Caregiver+ subscription
 
@@ -82,4 +82,4 @@ Questions about these Terms: **celunaapp@gmail.com**
 
 ---
 
-_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Jakub Pilasiewicz_
+_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Celuna_
