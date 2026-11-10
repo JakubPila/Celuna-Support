@@ -1,6 +1,6 @@
 # Celuna — Privacy Policy
 
-_Last updated: October 2026_
+_Last updated: November 2026_
 
 ---
 
@@ -47,7 +47,8 @@ When you create or join a Circle, this is synced to the other members so everyon
 - Notes, handoff information, and check-ins
 - Behaviour moments you record
 - Voice memories and documents you add
-- The shared family chat (including any photos you attach), tasks, and care-shift schedule
+- The shared family chat (including any photos you attach), reactions and pinned messages, and who has seen each message
+- Tasks, the care-shift schedule, asks for help or cover, handover notes, and thank-yous
 - Who logged each dose, care-log entry, reading and moment, and when
 
 This is stored on our servers (hosted by **Supabase**, in the United States) and is protected so that only members of your own circle can read it.
@@ -60,7 +61,7 @@ If you subscribe to Caregiver+ on your own, Celuna keeps your records in a circl
 
 ## Alerts from your circle
 
-If you share a Circle and allow notifications, Celuna can alert you when someone else in it gives a dose, writes in the chat, or logs a reading, a moment or something in the care log — you choose which in Settings → Notifications. To do this, your phone gives our server an address for alerts (a “push token”) along with your choices, and each alert — for example “Donepezil — Given 7:52 PM by Anna” — passes through Expo’s push service to Apple, who deliver it to your phone. Alerts go only to the other members of your circle. “Hide details on the lock screen” keeps medicine names, readings, moments and messages out of them. Signing out stops them, and deleting your account deletes the address.
+If you share a Circle and allow notifications, Celuna can alert you when someone else in it gives a dose, writes in the chat, logs a reading, a moment or something in the care log, asks the circle for help or cover, says yes to you, leaves you a handover note, or gives you a task or a shift — you choose which in Settings → Notifications. To do this, your phone gives our server an address for alerts (a “push token”) along with your choices, and each alert — for example “Donepezil — Given 7:52 PM by Anna” — passes through Expo’s push service to Apple, who deliver it to your phone. Alerts go only to the other members of your circle. “Hide details on the lock screen” keeps medicine names, readings, moments and messages out of them. Signing out stops them, and deleting your account deletes the address.
 
 ---
 
@@ -107,6 +108,7 @@ Some information you record may relate to health. It stays on your device unless
 - **Camera** — only when you photograph a document
 - **Photo Library** — only when you attach a photo
 - **Calendar** — only when you add an appointment to your own calendar
+- **Face ID** (or Touch ID) — only if you choose to lock your journal. Your iPhone checks it; Celuna only learns whether it succeeded, and never sees your face or fingerprint
 - **Notifications** — for the reminders you set and, if you share a Circle, alerts when someone else in it logs something (you choose which in Settings)
 
 Each is optional and can be revoked in iOS Settings.
@@ -141,4 +143,4 @@ Material changes will be posted here with an updated date. Any genuinely new sha
 
 **celunaapp@gmail.com**
 
-_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Jakub Pilasiewicz_
+_[Privacy Policy](https://jakubpila.github.io/Celuna-Support/privacy.html) · [Terms of Use](https://jakubpila.github.io/Celuna-Support/terms.html) · © 2026 Celuna_
