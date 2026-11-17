@@ -38,7 +38,7 @@ To subscribe to Caregiver+ or share a Circle, you sign in with **Sign in with Ap
 
 ## What is shared in a Circle
 
-When you create or join a Circle, this is synced to the other members so everyone sees the same, current information:
+When you create or join a Circle, this is synced to the other members so everyone sees the same, current information, except any part the circle’s admin has switched off for someone, which never reaches that person:
 
 - Details about the person being cared for
 - Medications, schedules, and what has been given
