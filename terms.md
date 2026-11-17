@@ -30,7 +30,7 @@ You keep ownership of everything you put into Celuna (**"your content"**). By ad
 
 You are responsible for your content, and for having a proper basis to record and share information about the person you care for — for example, being their carer, next of kin, or holding the appropriate authority. Only invite people you trust, and only share what you have the right to share. Do not upload anything unlawful, or anything you do not have permission to share.
 
-Each circle has an admin who can invite people, set their role (a co-caregiver, or an observer who can see the circle and send thanks and reactions but not change its records), and remove them. Information shared into a circle may remain on other members' devices even after you delete it from yours. An account can be in one family’s circle at a time.
+Each circle has an admin who can invite people, set their role (a co-caregiver, or an observer who can see the circle and send thanks and reactions but not change its records), choose which parts of the circle each of them can see, and remove them. Information shared into a circle may remain on other members' devices even after you delete it from yours. An account can be in one family’s circle at a time.
 
 ## 5. Caregiver+ subscription
 
